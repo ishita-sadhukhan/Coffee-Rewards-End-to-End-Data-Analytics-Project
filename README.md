@@ -1,5 +1,12 @@
 # Coffee-Rewards-End-to-End-Data-Analytics-Project
 
+
+Are you building your data analyst portfolio but not sure how to structure a real project?
+
+End To End Data Analyst Project for Portfolio using SQL, Python, Tableau, Project Report, GitHub | Build a Job-Ready Portfolio
+📊Analyze a marketing campaign and learn how to generate business insights.
+Subscribe for more real-world analytics projects.
+
 Tableau Dashboard Link : [Coffee Rewards Campaign Dashboard](https://public.tableau.com/views/CoffeeRewardsCampaignDashboard/Dashboard-CoffeeRewards?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
 
 [YT video link] (https://youtu.be/4ueOw_qY_6A)
